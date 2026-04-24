@@ -19,7 +19,7 @@
 
 Your mission: **find them all.**
 
-[Getting Started](#-getting-started) · [Vulnerability Map](#-vulnerability-coverage) · [Default Accounts](#-default-accounts) · [Rules of Engagement](#-rules-of-engagement)
+[Getting Started](#getting-started) · [Vulnerability Map](#vulnerability-coverage) · [Default Accounts](#default-accounts) · [Rules of Engagement](#rules-of-engagement)
 
 </div>
 
